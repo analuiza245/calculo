@@ -7,3 +7,5 @@ if a == "subtração":
     print(b-c)
 if a == "divisão":
     print(b/c)
+if a == "multiplicação":
+    print(b*c)
